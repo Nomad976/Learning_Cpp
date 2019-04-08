@@ -1,0 +1,6 @@
+#ifndef HEADER_NODE_H_INCLUDED
+#define HEADER_NODE_H_INCLUDED
+
+struct node;
+
+#endif // HEADER_NODE_H_INCLUDED
